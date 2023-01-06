@@ -352,6 +352,7 @@ footer {
     .scroll_down img{
         width: 20%;
         left: 38%;
+        top: 35%;
     }
 
 /* サムネイル */
@@ -423,7 +424,7 @@ footer {
     }
     
 /* other works */
-    .other_works {
+    #other_works {
         padding: 48px 24px 48px;
     }
 
