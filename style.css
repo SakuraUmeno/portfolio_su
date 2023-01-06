@@ -551,6 +551,14 @@ footer {
         border-top: 1px solid #243528;
      }
 
+    /* トップ */
+    .background-img_1 {
+        width: 68.055%;
+        position: absolute;
+        top: 0px;
+        left: 0;
+    }
+    
      /*スマホメニュー*/
    .sp-nav ul {
     display: flex;
