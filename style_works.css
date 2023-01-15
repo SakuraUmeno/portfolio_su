@@ -344,6 +344,9 @@ footer {
     }
 
 /* ヘッダー */
+    header {
+        padding: 24px 60px 0 24px;
+    }
     nav {
         display: none;
     }
